@@ -17,8 +17,9 @@ Meu nome é Adrian Coelho, e sou um estudante de Sistemas da Informação apaixo
 - Python
 - Programação Orientada a Objetos (POO)
 - HTML, CSS
-- JavaScript (básico)
-
+- JavaScript (Básico)
+- Inglês
+  
 ## Como Entrar em Contato
 
 - Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/adrian-coelho-bezerra/) ou pelo meu [e-mail](https://mail.google.com/mail/?view=cm&fs=1&to=adriancoelho2020@gmail.com).
