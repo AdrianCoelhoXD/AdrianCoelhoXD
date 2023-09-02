@@ -4,7 +4,7 @@ Meu nome é Adrian Coelho, e sou um estudante de Sistemas da Informação apaixo
 
 ## Sobre Mim
 
-- 👨‍🎓 Atualmente, estou cursando Sistemas da Informação.
+- 👨‍🎓 Atualmente, estou cursando Sistemas da Informação, formação do curso em 2026.
 - 🚀 Apesar de não ter tido oportunidades de trabalho ou estágio até o momento, tenho me dedicado intensamente a aprimorar minhas habilidades através de bootcamps intensivos e cursos online.
 - 💻 Comecei minha jornada na programação com Python, mas logo me encantei com Java e tenho me dedicado a aprimorar meu conhecimento nessa linguagem.
 - 🎯 Tenho uma forte afinidade pelo conceito de Programação Orientada a Objetos (POO) e busco aplicá-lo em meus projetos.
