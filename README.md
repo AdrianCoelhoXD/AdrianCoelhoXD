@@ -15,9 +15,10 @@ Meu nome é Adrian Coelho, e sou um estudante de Sistemas da Informação apaixo
 - Git & GitHub
 - Java
 - Python
-- Programação Orientada a Objetos (POO)
+- JavaScript
 - HTML, CSS
-- JavaScript (Básico)
+- Programação Orientada a Objetos (POO)
+- IDE's: Eclipse e VSCode
 - Inglês
   
 ## Como Entrar em Contato
