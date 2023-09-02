@@ -21,7 +21,7 @@ Meu nome é Adrian Coelho, e sou um estudante de Sistemas da Informação apaixo
 
 ## Como Entrar em Contato
 
-- Você pode entrar em contato comigo através do meu [LinkedIn]((https://www.linkedin.com/in/adrian-coelho-bezerra/)) ou pelo [e-mail](adriancoelho2020@gmail.com).
+- Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/adrian-coelho-bezerra/) ou pelo [e-mail](adriancoelho2020@gmail.com).
 
 Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada de aprendizado. Estou ansioso para oportunidades futuras de trabalho e colaboração. Obrigado por visitar meu Github!
 
