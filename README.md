@@ -1,13 +1,27 @@
-### Hi there 👋
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AdrianCoelhoXD=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+# Bem-vindo ao meu GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Adrian Coelho, e sou um estudante de Sistemas da Informação apaixonado por programação e tecnologia. Este é o meu espaço onde compartilho um pouco dos projetos, aprendizados e minha jornada no mundo da programação.
+
+## Sobre Mim
+
+- 👨‍🎓 Atualmente, estou cursando Sistemas da Informação.
+- 🚀 Apesar de não ter tido oportunidades de trabalho ou estágio até o momento, tenho me dedicado intensamente a aprimorar minhas habilidades através de bootcamps intensivos e cursos online.
+- 💻 Comecei minha jornada na programação com Python, mas logo me encantei com Java e tenho me dedicado a aprimorar meu conhecimento nessa linguagem.
+- 🎯 Tenho uma forte afinidade pelo conceito de Programação Orientada a Objetos (POO) e busco aplicá-lo em meus projetos.
+- 🌐 Durante um período da faculdade, cursei a disciplina de "Frontend", onde aprendi HTML, CSS e um pouco de JavaScript.
+- 📚 Estou constantemente estudando novas tecnologias e me esforçando para me tornar um profissional cada vez mais adaptado às ferramentas que me ajudam a solucionar problemas.
+
+## Habilidades
+- Git & GitHub
+- Java
+- Python
+- Programação Orientada a Objetos (POO)
+- HTML, CSS
+- JavaScript (básico)
+
+## Como Entrar em Contato
+
+- Você pode entrar em contato comigo através do meu [LinkedIn]((https://www.linkedin.com/in/adrian-coelho-bezerra/)) ou pelo [e-mail](adriancoelho2020@gmail.com).
+
+Sinta-se à vontade para explorar meus projetos e acompanhar minha jornada de aprendizado. Estou ansioso para oportunidades futuras de trabalho e colaboração. Obrigado por visitar meu Github!
+
