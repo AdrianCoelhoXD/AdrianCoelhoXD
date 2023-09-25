@@ -18,7 +18,7 @@ Meu nome é Adrian Coelho, e sou um estudante de Sistemas da Informação apaixo
 - JavaScript
 - HTML, CSS
 - Programação Orientada a Objetos (POO)
-- IDE's: Eclipse e VSCode
+- IDE's: Eclipse, Intellij e VSCode
 - Inglês
   
 ## Como Entrar em Contato
